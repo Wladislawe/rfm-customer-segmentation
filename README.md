@@ -115,7 +115,7 @@ Performed **RFM (Recency, Frequency, Monetary) Analysis** on 541909 transactions
 
 ## How to Reproduce
 ### 1. Clone repository
-Git clone [https://github.com/your-username/rfm-customer-segmentation](https://github.com/Wladislawe/rfm-customer-segmentation)
+git clone https://github.com/Wladislawe/rfm-customer-segmentation
 
 ### 2. Install dependencies
 install.packages(c("tidyverse", "readxl", "lubridate", "scales", "ggplot2"))
