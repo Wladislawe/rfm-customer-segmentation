@@ -134,7 +134,6 @@
 ## Как воспроизвести
 ### 1. Клонировать репозиторий
 git clone https://github.com/Wladislawe/rfm-customer-segmentation
-cd rfm-customer-segmentation
 
 ### 2. Установить пакеты в R
 install.packages(c("tidyverse", "readxl", "lubridate", "scales", "ggplot2"))
